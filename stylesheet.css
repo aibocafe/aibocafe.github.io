@@ -3,7 +3,7 @@
 
 h1 {
 	font-family: 'Oldenburg', cursive;
-	
+	font-weight: bold;
 }
 
 a {
@@ -29,6 +29,14 @@ a:hover {
     color: #656565;
 	
 }
+
+table {
+		margin-top:7px;
+		margin-bottom:7px;
+        -moz-border-radius:5px;
+		border-radius: 5px;
+        
+    }
 
 .respo {
   height: auto;
