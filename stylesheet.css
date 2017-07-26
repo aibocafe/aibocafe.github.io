@@ -36,4 +36,25 @@ a:hover {
   max-width: 300px;
 }
 
+.400{
+  height: auto;
+  width: 100%;
+  max-width: 400px;
+}
+
+.sideby{
+  max-width: 22%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
+@media (max-width: 500px) {
+     .sideby{
+		max-width: 40%;
+		height: auto;
+		width: auto\9; /* ie8 */
+}
+    }
+
+
 </style>
