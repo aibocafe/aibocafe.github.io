@@ -1,0 +1,39 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Oldenburg');
+
+h1 {
+	font-family: 'Oldenburg', cursive;
+	
+}
+
+a {
+	color: #397c92;
+	text-decoration: none;
+	font-family: 'Noto Sans', sans-serif;
+	
+}
+a:hover {
+    color: #90c3d4;
+	text-decoration: none;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#intro {
+    word-wrap: break-word;
+    position:justify;
+    font-family: 'Noto Sans', sans-serif;
+    width: 75%;
+    padding: 10px 10px 10px 10px;
+    height: auto;
+    overflow-x: auto;
+    color: #656565;
+	
+}
+
+.respo {
+  height: auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+</style>
