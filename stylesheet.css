@@ -56,6 +56,10 @@ table {
   width: auto\9; /* ie8 */
 }
 
+#blog {
+    height: 10px;
+}
+
 @media (max-width: 500px) {
      .sideby{
 		max-width: 40%;
@@ -63,6 +67,26 @@ table {
 		width: auto\9; /* ie8 */
 }
     }
+	
+<!-- fader -->
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+ 
+.fader {
+	opacity:0;
+	-webkit-animation:fadeIn ease-in 1;
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+ 
+	-webkit-animation-fill-mode:forwards; 
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+ 
+	-webkit-animation-duration:3s;
+	-moz-animation-duration:3s;
+	animation-duration:3s;
+}
 
 
 </style>
