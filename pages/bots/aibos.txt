@@ -29,7 +29,7 @@
 </center>
 <body>
 <center>
-<img src="../images/400pleointro.png" class="sideby">&nbsp;&nbsp;<a href="bots/aibos.html"><img src="../images/400aibointro.png" class="sideby"></a><br>
+<img src="../images/400pleointro.png" class="sideby">&nbsp;&nbsp;<img src="../images/400aibointro.png" class="sideby"><br>
 <img src="../images/400furbyintro.png" class="sideby">&nbsp;&nbsp;<img src="../images/400otherintro.png" class="sideby"><br><Br>
 <div id="intro">
 Click one of the images above to meet my robots!<br><br><br>
